@@ -1,0 +1,21 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "author": "Aaron Dee",
+        "name": "Luna Dark Mode",
+        "license": "Unlicense "
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/AaronDeeMusic\/Aliucord-Themes\/main\/Luna%20Darkmode\/2469257.png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": -1744830464,
+        "background_secondary": 0,
+        "active_channel": -704630651,
+        "mention_highlight": -1307697265
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
