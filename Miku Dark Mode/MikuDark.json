@@ -2,7 +2,7 @@
     "manifest": {
         "version": "1.0.0",
         "author": "Aaron Dee",
-        "name": "Luna Dark Mode",
+        "name": "Miku Dark Mode",
         "license": "Unlicense",
         "updater": "https:\/\/raw.githubusercontent.com\/AaronDeeMusic\/Aliucord-Themes\/main\/Miku%20Darkmode\/MikuDark.json"
     },
