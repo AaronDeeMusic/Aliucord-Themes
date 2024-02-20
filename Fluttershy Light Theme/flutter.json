@@ -1,0 +1,19 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "author": "Aaron Dee",
+        "name": "Luna Dark Mode",
+        "license": "Unlicense",
+        "updater": "https:\/\/raw.githubusercontent.com\/AaronDeeMusic\/Aliucord-Themes\/main\/Luna%20Darkmode\/LunaDark.json"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com/AaronDeeMusic/Aliucord-Themes/main/Fluttershy%20Light%20Theme/bg.png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 218103808,
+        "background_secondary": 218103808,
+        "active_channel": -704630651,
+        "mention_highlight": -1307697265
+    }
+}
